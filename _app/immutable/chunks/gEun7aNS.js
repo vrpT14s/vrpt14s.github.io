@@ -1,1 +1,0 @@
-import{m as a}from"./DsZVoYkh.js";const l=a({id:null,token:null}),e=()=>{let o=JSON.parse(localStorage.getItem("userData"));o&&(console.log("local: ",o),l.id=o.id,l.token=o.token)};export{e as l,l as u};
