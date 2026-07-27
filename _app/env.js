@@ -1,1 +1,0 @@
-export const env={"PUBLIC_API_BASE":"https://vrpweb.vrp-t14s.workers.dev"}
