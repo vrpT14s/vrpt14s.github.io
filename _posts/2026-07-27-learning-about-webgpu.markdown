@@ -11,6 +11,10 @@ There is an exception to that and that's video games. Graphics programming has a
 
 More importantly, video games are interesting to people who don't know (or don't care) about what it does internally. That includes you a few years down the line. I admit I might be biased because I like the concept of video games very much (even though I barely ever play video games these days). If every computer in the world except my laptop blew up into flames and everyone else became allergic to the idea of computing, the idea of playing a video game would still hold as much sway it does to me now. Large volume OLAP data-querying, for example, wouldn't be as prominent of a topic in my mind in comparison.
 
+---
+
+Testing
+
 {% highlight javascript %}
 const x = 1;
 console.log(x);
